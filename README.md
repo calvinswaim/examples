@@ -1,6 +1,6 @@
 ## examples
 
-Various example source files that are completely self contained on their own.
+Various example source files that are completely self contained.
 
 ### License
 
