@@ -18,7 +18,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * file: treeview-example.cpp
+ * file: custom-nodes.cpp
  * description: cinema 4d plugin demonstrating the tree view GUI with
  *   a custom tree node class. written for the cinema 4d R15 api. */
 
